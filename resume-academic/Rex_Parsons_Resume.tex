@@ -1,0 +1,61 @@
+\documentclass[11pt]{article}
+
+\usepackage{../components/commonheader}
+\usepackage{academicons}
+
+\begin{document}
+
+\subimport{../components/}{background.tex}
+
+\resumesection{Education}
+\subimport{../components/education}{qut.tex}
+\subimport{../components/education}{uon.tex}
+\subimport{../components/education}{uq.tex}
+
+\vspace{1mm}
+\resumesection{Employment}
+\subimport{../components/experiences/}{cds.tex}
+\subimport{../components/experiences/}{aushsi.tex}
+\subimport{../components/experiences/}{ellume.tex}
+\subimport{../components/experiences/}{cityfertility.tex}
+\subimport{../components/experiences/}{ucmi.tex}
+\subimport{../components/experiences/}{ellume_ra.tex}
+
+\vspace{1mm}
+\resumesection{Technical Skills}
+\subimport{../components/}{skills.tex}
+
+\vspace{1mm}
+\resumesection{Statistical Software Development}
+\subimport{../components/publications/}{software.tex}
+
+\vspace{1mm}
+\resumesection{Teaching}
+\subimport{../components/experiences/}{teaching.tex}
+
+\vspace{1mm}
+\resumesection{Published Papers \href{https://scholar.google.com/citations?user=r_UzMTUAAAAJ&hl=en}{\aiGoogleScholar}}
+\begin{enumerate}
+	\subimport{../components/publications/}{selected_pubs.tex}
+	\subimport{../components/publications/}{extra_pubs.tex}
+\end{enumerate}\par
+
+\newpage
+
+\vspace{1mm}
+\resumesection{Conferences}
+\subimport{../components/publications}{conference_abstracts.tex}
+
+\vspace{1mm}
+\resumesection{Awards}
+\subimport{../components/awards/}{awards-gen.tex}
+
+\vspace{1mm}
+\resumesection{Grants}
+\subimport{../components/awards/}{awards-grants.tex}
+
+\vspace{1mm}
+\resumesection{Outreach and community involvement}
+\subimport{../components/}{outreach.tex}
+
+\end{document}

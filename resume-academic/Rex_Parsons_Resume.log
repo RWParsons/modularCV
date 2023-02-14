@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2022.1.3)  9 FEB 2023 19:10
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2022.1.3)  14 FEB 2023 17:11
  restricted system commands enabled.
 **Rex_Parsons_Resume.tex
 (./Rex_Parsons_Resume.tex
@@ -607,13 +607,9 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 Missing character: There is no 🖥 (U+1F5A5) in font nullfont!
 Missing character: There is no ️ (U+FE0F) in font nullfont!
 ]) (../components/publications/software.tex)
-(../components/experiences/teaching.tex
-! Misplaced alignment tab character &.
-l.5 ...ent Healthcare (Guest Lecturer) \hfill 2021 &
-                                                   2023\par
-? 
-) (../components/awards/awards-gen.tex) (../components/awards/awards-grants.tex
-) (../components/../components/outreach.tex)
+(../components/experiences/teaching.tex) (../components/awards/awards-gen.tex)
+(../components/awards/awards-grants.tex)
+(../components/../components/outreach.tex)
 LaTeX Font Info:    Trying to load font information for TU+academicons on input
  line 48.
 
@@ -631,7 +627,7 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:761,3:337,4:132,5:620,6:105,7:8851,8:62,9:337,10:6,11:742
+   avail lists: 1:1,2:775,3:343,4:132,5:620,6:105,7:8851,8:62,9:337,10:6,11:742
  37703 multiletter control sequences out of 65536+200000
  36 fonts using 4146559 bytes
  96i,6n,98p,381b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -643,7 +639,7 @@ l/programs/miktex/fonts/opentype/public/lm/lmsans10-oblique.otf><C:/Users/n10891
 otf><//?/c:/users/n10891277/appdata/local/programs/miktex/fonts/opentype/public/
 lm/lmsans10-regular.otf><//?/c:/users/n10891277/appdata/local/programs/miktex/fo
 nts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Rex_Parsons_Resume.pdf (3 pages, 58871 bytes).
+Output written on Rex_Parsons_Resume.pdf (3 pages, 58862 bytes).
 
 PDF statistics: 125 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 131072)

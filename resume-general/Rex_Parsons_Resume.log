@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2022.1.3)  31 MAR 2023 11:49
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2022.1.3)  6 APR 2023 11:27
  restricted system commands enabled.
 **Rex_Parsons_Resume.tex
 (./Rex_Parsons_Resume.tex
@@ -624,7 +624,7 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:731,3:336,4:132,5:415,6:105,7:8043,8:63,9:337,10:6,11:692
+   avail lists: 1:1,2:727,3:336,4:132,5:419,6:105,7:7991,8:63,9:337,10:6,11:692
  37700 multiletter control sequences out of 65536+200000
  36 fonts using 4146559 bytes
  96i,6n,98p,364b,332s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -636,7 +636,7 @@ l/programs/miktex/fonts/opentype/public/lm/lmsans10-oblique.otf><C:/Users/n10891
 otf><//?/c:/users/n10891277/appdata/local/programs/miktex/fonts/opentype/public/
 lm/lmsans10-regular.otf><//?/c:/users/n10891277/appdata/local/programs/miktex/fo
 nts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Rex_Parsons_Resume.pdf (2 pages, 50523 bytes).
+Output written on Rex_Parsons_Resume.pdf (2 pages, 49886 bytes).
 
 PDF statistics: 97 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 131072)

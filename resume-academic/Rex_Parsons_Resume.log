@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2022.1.3)  18 JUN 2024 10:51
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2022.1.3)  22 AUG 2024 10:10
  restricted system commands enabled.
 **Rex_Parsons_Resume.tex
 (./Rex_Parsons_Resume.tex
@@ -594,27 +594,28 @@ l.4 ...moji{desktop-computer} rwparsons.github.io/}}
                                                   
 ? 
 ) (../components/education/qut.tex) (../components/education/uon.tex)
-(../components/education/uq.tex) (../components/experiences/hpa.tex
+(../components/education/uq.tex) (../components/experiences/nous.tex
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 2.
 )
-(../components/experiences/aushsi.tex) (../components/experiences/ellume.tex)
+(../components/experiences/hpa.tex) (../components/experiences/aushsi.tex)
+(../components/experiences/ellume.tex)
 (../components/experiences/cityfertility.tex)
 (../components/experiences/ucmi.tex) (../components/experiences/ellume_ra.tex)
-(../components/../components/skills.tex)
-(../components/publications/software.tex [1
+(../components/../components/skills.tex) [1
 
 {C:/Users/n10891277/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 Missing character: There is no 🖥 (U+1F5A5) in font nullfont!
 Missing character: There is no ️ (U+FE0F) in font nullfont!
-]) (../components/experiences/teaching.tex)
-(../components/awards/awards-gen.tex) (../components/awards/awards-grants.tex)
-(../components/../components/outreach.tex)
+] (../components/publications/software.tex)
+(../components/experiences/teaching.tex) (../components/awards/awards-gen.tex)
+(../components/awards/awards-grants.tex)
+(../components/../components/outreach.tex [2])
 LaTeX Font Info:    Trying to load font information for TU+academicons on input
- line 49.
+ line 50.
 
 (C:/Users/n10891277/AppData/Local/Programs/MiKTeX/tex/latex/academicons/tuacade
-micons.fd) (../components/publications/all_pubs.tex [2] [3])
+micons.fd) (../components/publications/all_pubs.tex [3])
 (../components/publications/conference_abstracts.tex) [4]
 (./Rex_Parsons_Resume.aux)
 Package rerunfilecheck Info: File `Rex_Parsons_Resume.out' has not changed.
@@ -622,15 +623,15 @@ Package rerunfilecheck Info: File `Rex_Parsons_Resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 18735 strings out of 478821
+ 18748 strings out of 478821
  100000,662416 words of node,token memory allocated
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:837,3:373,4:140,5:645,6:106,7:8797,8:72,9:351,10:6,11:691
- 37704 multiletter control sequences out of 65536+200000
+   avail lists: 1:1,2:791,3:364,4:134,5:629,6:105,7:8755,8:71,9:348,10:6,11:668
+ 37705 multiletter control sequences out of 65536+200000
  36 fonts using 4146559 bytes
- 96i,6n,98p,389b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 96i,5n,98p,389b,495s stack positions out of 5000i,500n,10000p,200000b,50000s
 <//?/c:/users/n10891277/appdata/local/programs/miktex/fonts/truetype/public/acad
 emicons/academicons.ttf><//?/c:/users/n10891277/appdata/local/programs/miktex/fo
 nts/opentype/public/lm/lmmono10-regular.otf><//?/c:/users/n10891277/appdata/loca
@@ -639,7 +640,7 @@ l/programs/miktex/fonts/opentype/public/lm/lmsans10-oblique.otf><C:/Users/n10891
 otf><//?/c:/users/n10891277/appdata/local/programs/miktex/fonts/opentype/public/
 lm/lmsans10-regular.otf><//?/c:/users/n10891277/appdata/local/programs/miktex/fo
 nts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Rex_Parsons_Resume.pdf (4 pages, 64710 bytes).
+Output written on Rex_Parsons_Resume.pdf (4 pages, 64791 bytes).
 
 PDF statistics: 144 PDF objects out of 1000 (max. 8388607)
  52 named destinations out of 1000 (max. 131072)

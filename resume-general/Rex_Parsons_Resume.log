@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.9.23)  12 NOV 2024 09:24
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.9.23)  14 NOV 2024 16:04
  restricted system commands enabled.
 **Rex_Parsons_Resume.tex
 (./Rex_Parsons_Resume.tex
@@ -647,7 +647,7 @@ Here is how much of LuaTeX's memory you used:
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:640,3:397,4:165,5:642,6:143,7:12165,9:517,10:6,11:1063
+   avail lists: 1:1,2:636,3:397,4:165,5:642,6:143,7:12165,9:517,10:6,11:1063
  40927 multiletter control sequences out of 65536+600000
  28 fonts using 2221999 bytes
  94i,6n,117p,385b,337s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -659,7 +659,7 @@ l/Programs/MiKTeX/fonts/opentype/public/fontawesome/FontAwesome.otf><c:/users/pa
 rsonrr/appdata/local/programs/miktex/fonts/opentype/public/lm/lmsans10-regular.o
 tf><c:/users/parsonrr/appdata/local/programs/miktex/fonts/opentype/public/lm/lms
 ans10-bold.otf>
-Output written on Rex_Parsons_Resume.pdf (2 pages, 50012 bytes).
+Output written on Rex_Parsons_Resume.pdf (2 pages, 50052 bytes).
 
 PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 131072)
